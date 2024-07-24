@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVmhnUTNaWGtUaXNrTUN3U09VTnFF@outline.de.outlinekeys.net:20888#%F0%9F%92%A5%20NEW%20VIP%201%20-%20UP
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.118:3389#%F0%9F%92%A5%20NEW%20VIP%202%20-%20UP
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04=@45.145.42.70:25367#%F0%9F%92%A5%20NEW%20VIP%203
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?encryption=none&security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#%F0%9F%92%A5%20NEW%20VIP%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#%F0%9F%92%A5%20NEW%20VIP%205
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1RENBNSBORVcgVklQIDYiLA0KICAiYWRkIjogIjE3Mi42Ny4xODMuMjIwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiamFoZmtqaGEuY2ZkIiwNCiAgInBhdGgiOiAiL2xpbmt3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJqYWhma2poYS5jZmQiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#%F0%9F%92%A5BEST%20FOR%20HIDDIFY
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?encryption=none&security=reality&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&type=grpc#%E2%9C%85%20AMIN%20VIP%201%20-%20WIFI
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#%E2%9C%85%20AMIN%20VIP%202%20-%20WIFI
