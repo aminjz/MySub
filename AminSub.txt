@@ -65,7 +65,7 @@ trojan://compassvpn-Fn2OXP2xxv@npmjs.com:2083?security=tls&sni=9415617439.19kala
 vless://d789285d-b88b-4f3b-b37b-0489d3cffdb6@fastly.com:443?encryption=none&security=tls&sni=fastly.com&type=ws&host=thedomainnotexist.com&path=ws%2F%3Fed%3D2048#DailyV2ry%20%E2%98%82%EF%B8%8F%20MCI%26TCI
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?encryption=none&security=tls&sni=MSdOnoR.pagEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=mSDONOr.Pages.dEv&path=%2FR5lApEWHnBpYI2jQ%3Fed%3D2560#DailyV2ry%20%E2%98%82%EF%B8%8F%20telegram
 vless://d41faf1e-054b-48e9-9487-40747f230808@172.66.47.198:443?encryption=none&security=tls&sni=e-dl.chawoshco.ir&fp=chrome&type=ws&host=e-dl.chawoshco.ir&path=%2Fws#DailyV2ry%20%F0%9F%94%B5%20MCI%20Tested
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#proxy_mtm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#proxy_Mosiiiiiiiiiiiiiiiih
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTelegram-proxy_mtm%3Fed%3D2048#proxy_mtm
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2F%3Fed%3D2048#proxy_mtm
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#proxy_mtm
