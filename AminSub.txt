@@ -87,3 +87,4 @@ ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbmluLS1aRURNT0RFT04tLWJpYS0
 vless://ID-TELEGRAM-XPNTEAM@venos-mcier-channelll-free.frqansgame.ir:55733?encryption=none&security=none&type=tcp&headerType=http&host=uplod.ir#%40DisVpn
 vless://d1fb6c59-fe71-4f5c-bb44-88174879d8e8@www.speedtest.net:80?encryption=none&security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#%40DisVpn
 vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?encryption=none&security=none&type=httpupgrade&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&path=%2FSHHPROXY%3Fed%3D2048#%40DisVpn
+vless://70f68a26-1c10-4f7f-b22c-3b6f1558558a@www.speedtest.net:80?encryption=none&security=none&type=ws&host=99.a.v.y.www.speedtest.net.ftp.debian.iu.photoshott.ir&path=%2Fwww.Speedtest.net%3Fed%3D1024#Youtube%205.16
