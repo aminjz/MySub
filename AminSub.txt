@@ -64,7 +64,7 @@ vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?encryption=none&s
 vless://d41faf1e-054b-48e9-9487-40747f230808@172.66.47.198:443?encryption=none&security=tls&sni=e-dl.chawoshco.ir&fp=chrome&type=ws&host=e-dl.chawoshco.ir&path=%2Fws#DailyV2ry%20%F0%9F%94%B5%20MCI%20Tested
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#proxy_Mosiiiiiiiiiiiiiiiih
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?encryption=none&security=tls&sni=MSdOnoR.pagEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=mSDONOr.Pages.dEv&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560#proxy_mtm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_mtm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#proxy_aminnnnnnnnnn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?encryption=none&security=tls&sni=523afb17.IRS23.pAgES.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=523AfB17.IRS23.pagES.DEv&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560#proxy_mtm
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?encryption=none&security=tls&sni=miumiUMadReKoSE.pAgES.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=Telegram-%40proxy_mtm%2F%3Fed%3D2560#proxy_mtm
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2FTelegram-proxy_mtm%3Fed%3D2048#proxy_mtm
