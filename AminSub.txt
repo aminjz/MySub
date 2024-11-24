@@ -123,3 +123,4 @@ hysteria2://9d765687-536c-4626-a2e2-6a403219e381@35afq4514.surfcat.store:30005/?
 hysteria2://9d765687-536c-4626-a2e2-6a403219e381@35afq4514.surfcat.store:30006/?sni=35afq4514.surfcat.store&insecure=1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United%20States
 hysteria2://9d765687-536c-4626-a2e2-6a403219e381@35f235a.surfcat.store:30103/?sni=35afq4514.surfcat.store&insecure=1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%ACSingapore
 hysteria2://9d765687-536c-4626-a2e2-6a403219e381@35asfq3t.surfcat.store:30103/?sni=35afq4514.surfcat.store&insecure=1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%ACSingapore
+hysteria2://18240b2dfdd76484@70.34.207.153:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
