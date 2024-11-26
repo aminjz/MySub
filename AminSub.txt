@@ -129,3 +129,5 @@ hysteria2://KevinZakarian@179.61.132.96:8443/?obfs=salamander&obfs-password=Kevi
 hysteria2://18240b2dfdd76484@70.34.207.153:443/?sni=70.34.207.153&obfs=salamander&obfs-password=d2648ec2&insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Sp%C3%A5nga%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://4e9ee29b39a28277@66.135.11.68:443/?sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Piscataway%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://4e9ee29b39a28277@66.135.11.68:443/?obfs=salamander&obfs-password=13f7ba5f&insecure=1#CPI
+hysteria2://18240b2dfdd76484@70.34.207.153:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4
+
